@@ -43,13 +43,8 @@ No caso específico deste projeto, focamos na execução de **agachamentos**.
 
 ## 🎥 Vídeo Demonstrativo
 
-<p align="center">
-  <a href="COLE_AQUI_O_LINK_DO_VIDEO">
-    <img src="https://img.youtube.com/vi/ID_DO_VIDEO_AQUI/0.jpg" alt="Vídeo demonstrativo" width="400"/>
-  </a>
-</p>
 
-> [Clique aqui para assistir ao vídeo demonstrativo](COLE_AQUI_O_LINK_DO_VIDEO)
+> [Clique aqui para assistir ao vídeo demonstrativo](https://youtu.be/_caCFHLGnek)
 
 ---
 
